@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jamie O'Connell</h1>
+<h1 align="center">Hi, I'm Jamie O'Connell</h1>
 <h3 align="center">A passionate Full Stack Software Engineer from Toronto</h3>
 
 - 👨‍💻 All of my projects are available at [https://jamieoconnell-portfolio.netlify.app/](https://jamieoconnell-portfolio.netlify.app/)
